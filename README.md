@@ -1,7 +1,7 @@
 ## **Proyecto de Automatización de Pruebas con Screenplay, Selenium y Cucumber**
 
-Este proyecto consiste en la automatización de pruebas funcionales sobre el logina y la funciona de crear candidato y validar si se listo en el módulo de reclutamiento de la plataforma OrangeHRM, 
-utilizando el patrón de diseño Screenplay junto con las herramientas Selenium, Cucumber, y Serenity BDD.
+Este proyecto consiste en la automatización de pruebas funcionales sobre el login y la funcionalidad de crear un candidato y validar si se listo en el módulo de recruitment de la plataforma OrangeHRM, 
+utilizando el patrón de diseño Screenplay junto con las herramientas Java, Selenium, Cucumber, Serenity BDD entre otras.
 
 ## **Tecnologías y Herramientas**
 
